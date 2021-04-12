@@ -1,6 +1,6 @@
-# Flask Tutorial Endpoint
+# Flask Tutorial Starting point
 
-This is your endpoint for the Flask / PyTorch tutorial. 
+This is your starting point for the Flask / PyTorch tutorial. 
 
 ## Steps to Run
 
