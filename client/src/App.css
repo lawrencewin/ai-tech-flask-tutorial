@@ -1,0 +1,23 @@
+* {
+  	font-family: sans-serif;
+}
+
+.app {
+	width: 600px;
+	margin: 16px auto;
+}
+
+.upload input {
+	display: block;
+	margin: 4px;
+}
+
+.result {
+	margin: 16px auto;
+	font-weight: 700;
+}
+
+.img {
+	margin: 16px auto;
+	width: 80%;
+}

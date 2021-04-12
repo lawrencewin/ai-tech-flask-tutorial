@@ -1,0 +1,5 @@
+client/node_modules
+api/__pycache__
+api/env
+api/model.th
+.vscode/
